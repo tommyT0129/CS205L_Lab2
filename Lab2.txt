@@ -1,0 +1,8 @@
+list prior to populating:
+Empty
+List after adding 3 employees:
+21 Sarah 23 Sandy 31 Mark 40 Joe 
+List in reverse:
+40 Joe 31 Mark 23 Sandy 21 Sarah 
+Searching for 23 Sandy true
+Searching for 40 Joe true
